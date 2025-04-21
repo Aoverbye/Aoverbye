@@ -5,6 +5,9 @@ My name is Amanda Overbye and I am currently a student of the University of Cali
 ## Things I love 🐶
 
 🐍 Learning R, Python, and SQL
+
 🦇 Working with and learning about wildlife, conservation, and ecology
+
 🐾 Hanging out with my dog Moose and teaching him new tricks
+
 🏃‍♀️ Learning new jogging routes and being outside
